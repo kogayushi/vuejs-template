@@ -1,6 +1,6 @@
-# kanban-app
+# sckeleton project
 
-> A Kanban Application
+> A Sckeleton project
 
 ## Build Setup
 
